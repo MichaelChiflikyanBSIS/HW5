@@ -1,3 +1,7 @@
+---
+layout: default
+title: "IS445: Homework 5"
+---
 # Bigfoot Sighting Analysis - HW5
 
 This assignment explores the geographic and classification density of Bigfoot sightings using the BFRO dataset. By leveraging visualizations, we can identify patterns in where and how these sightings are reported across North America.
